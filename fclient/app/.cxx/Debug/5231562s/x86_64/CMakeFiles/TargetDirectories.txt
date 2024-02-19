@@ -1,0 +1,3 @@
+/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/.cxx/Debug/5231562s/x86_64/CMakeFiles/fclient.dir
+/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/.cxx/Debug/5231562s/x86_64/CMakeFiles/edit_cache.dir
+/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/.cxx/Debug/5231562s/x86_64/CMakeFiles/rebuild_cache.dir

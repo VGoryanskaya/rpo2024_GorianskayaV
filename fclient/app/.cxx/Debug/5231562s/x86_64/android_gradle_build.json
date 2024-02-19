@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/vlada/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/.cxx/Debug/5231562s/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/vlada/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/.cxx/Debug/5231562s/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "fclient::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "fclient",
+      "output": "/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/build/intermediates/cxx/Debug/5231562s/obj/x86_64/libfclient.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/vlada/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/vlada/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

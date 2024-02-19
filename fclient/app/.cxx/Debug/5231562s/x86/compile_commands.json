@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/.cxx/Debug/5231562s/x86",
+  "command": "/home/vlada/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/home/vlada/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dfclient_EXPORTS -I/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/libs/spdlog/spdlog/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/fclient.dir/native-lib.cpp.o -c /home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/src/main/cpp/native-lib.cpp"
+}
+]

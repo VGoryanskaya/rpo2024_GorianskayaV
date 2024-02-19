@@ -1,0 +1,1 @@
+/home/vlada/AndroidStudioProjects/rpo2024_GorianskayaV/fclient/app/src/main/cpp/CMakeLists.txt
